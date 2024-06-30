@@ -1,6 +1,6 @@
 # Laravel Dynamic Filter
 
-A flexible and powerful Laravel package for applying dynamic filters to your Eloquent models.
+A flexible and powerful Laravel package for applying dynamic filters to your Eloquent models. made by[ itmarkerz technologies](https://itmarkerz.co.in/ " itmarkerz technologies")
 ## Installation
 You can install the package via Composer:
 ```bash
